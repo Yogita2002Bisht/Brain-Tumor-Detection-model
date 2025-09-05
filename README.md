@@ -62,11 +62,8 @@ While the current model focuses on detection, the broader goal is to build trust
 ## Folder Structure
 
 - `brain_tumor_dataset/` → Your training/testing images
-- 
 - `models/` → Trained model (`my_model.h5`)
-- 
 - `requirements` → requirements.txt →  Dependencies
-- 
 - `src/` → (`main.py`)
 
 ## To Run:
