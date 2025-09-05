@@ -3,6 +3,7 @@ This repository contains my work on brain tumor detection using deep learning (V
 The current model classifies MRI scans into multiple categories of brain tumors and non-tumor cases.
 
 I aim to continue improving this project by moving towards segmentation and 3D visualization for more clinical relevance, but this version demonstrates a complete and working classification pip
+
  **Key Contributions**
 -Built a brain tumor classification model using transfer learning (VGG16).
 -Achieved high accuracy on test MRI scans with strong generalization.
@@ -27,7 +28,9 @@ Achieved strong accuracy on test images
 Predictions visualized using confusion matrix & plots
 
 **Future Direction**
+
 Next steps include:
+
 -Adding tumor boundary segmentation for precise localization
 -Exploring 3D visualization of MRI scans for more intuitive interpretation
 
